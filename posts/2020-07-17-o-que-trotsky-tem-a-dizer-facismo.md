@@ -4,8 +4,8 @@ title: O que Trotsky tem a dizer sobre o fascismo?
 description: A necessidade de lutar contra o extermínio das organizações de esquerda
 tags: ["politica"]
 author: Deserto Vermelho
-image: ../src/static/assets/img/images-07-17/trotsky.jpeg
-imagePost: ../src/static/assets/img/images-07-17/trotsky.jpeg
+image: ../static/assets/img/images-07-17/trotsky.jpeg
+imagePost: ../static/assets/img/images-07-17/trotsky.jpeg
 templeteKey: slideshow
 ---
 

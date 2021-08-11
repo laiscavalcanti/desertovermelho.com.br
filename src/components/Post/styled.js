@@ -149,6 +149,19 @@ export const IconArrowWrapper = styled.div`
   justify-content: flex-end;
   padding: 1rem 0.5rem 2rem 0rem;
 `
+export const PostImage = styled.div`
+  display: block;
+  width: 50%;
+  height: 22rem;
+  margin-top: 4rem;
+  margin-left: 8.5rem;
+  ${media.lessThan("large")`
+    display: flex;
+    width: 100%;
+    height: 22rem;
+    margin: 0;
+`}
+`
 export const MainContent = styled.article`
   max-width: 47.5rem;
   padding: 1rem 0rem 2rem 7rem;

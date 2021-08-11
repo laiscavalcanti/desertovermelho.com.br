@@ -1,23 +1,23 @@
-import React from "react"
-import { graphql } from "gatsby"
-import { kebabCase } from "lodash"
+import React from "react";
+import { graphql } from "gatsby";
+import { kebabCase } from "lodash";
 
-import Layout from "../components/Layout"
-import SEO from "../components/seo"
-import RecommendedPosts from "../components/RecommendedPosts"
-import scrollToTop from "../utils/scrollToTop"
-import { ArrowUpward as ArrowUp } from "@styled-icons/material-rounded/ArrowUpward"
-import { Tag } from "@styled-icons/entypo/Tag"
+import Layout from "../components/Layout";
+import SEO from "../components/seo";
+import RecommendedPosts from "../components/RecommendedPosts";
+import scrollToTop from "../utils/scrollToTop";
+import { ArrowUpward as ArrowUp } from "@styled-icons/material-rounded/ArrowUpward";
+import { Tag } from "@styled-icons/entypo/Tag";
 
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
-import * as S from "../components/Post/styled"
+import * as S from "../components/Post/styled";
 
 const BlogPost = ({ data, pageContext }) => {
-  const post = data.markdownRemark
-  const next = pageContext.nextPost
-  const previous = pageContext.previousPost
-  const imagePost = getImage(post.frontmatter.imagePost)
+  const post = data.markdownRemark;
+  const next = pageContext.nextPost;
+  const previous = pageContext.previousPost;
+  const imagePost = getImage(post.frontmatter.imagePost);
 
   return (
     <Layout>
@@ -27,27 +27,29 @@ const BlogPost = ({ data, pageContext }) => {
         image={post.frontmatter.image}
       />
       <S.PostWrapper>
-      <GatsbyImage image={imagePost} />
-      <S.PostHeader>
-      <S.IconWrapper>
-          <S.Icon>
-            <Tag />
-          </S.Icon>
-          {post.frontmatter.tags.map(tag => {
-            return (
-              <li key={tag + `tag`}>
-                <S.PostTag to={`/tags/${kebabCase(tag)}/`}>{tag}</S.PostTag>
-              </li>
-            )
-          })}
-        </S.IconWrapper>
-      
-        <S.PostTitle>{post.frontmatter.title}</S.PostTitle>
-        <S.PostDescription>{post.frontmatter.description}</S.PostDescription>
-        <S.PostDate>
-          {post.frontmatter.date}  •  {post.timeToRead} min de leitura
-        </S.PostDate>
-      </S.PostHeader>
+        <S.PostImage>
+          <GatsbyImage image={imagePost} />
+        </S.PostImage>
+        <S.PostHeader>
+          <S.IconWrapper>
+            <S.Icon>
+              <Tag />
+            </S.Icon>
+            {post.frontmatter.tags.map((tag) => {
+              return (
+                <li key={tag + `tag`}>
+                  <S.PostTag to={`/tags/${kebabCase(tag)}/`}>{tag}</S.PostTag>
+                </li>
+              );
+            })}
+          </S.IconWrapper>
+
+          <S.PostTitle>{post.frontmatter.title}</S.PostTitle>
+          <S.PostDescription>{post.frontmatter.description}</S.PostDescription>
+          <S.PostDate>
+            {post.frontmatter.date} • {post.timeToRead} min de leitura
+          </S.PostDate>
+        </S.PostHeader>
       </S.PostWrapper>
       <S.MainContent>
         <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
@@ -59,8 +61,8 @@ const BlogPost = ({ data, pageContext }) => {
       </S.IconArrowWrapper>
       <RecommendedPosts next={next} previous={previous} />
     </Layout>
-  )
-}
+  );
+};
 
 export const query = graphql`
   query Post($slug: String!) {
@@ -74,11 +76,9 @@ export const query = graphql`
         description
         date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
         tags
-        imagePost  {
+        imagePost {
           childImageSharp {
             gatsbyImageData(
-              width: 350
-              height: 200
               placeholder: BLURRED
               formats: [AUTO, WEBP, AVIF]
               quality: 50
@@ -87,7 +87,7 @@ export const query = graphql`
             )
           }
         }
-        image  {
+        image {
           childImageSharp {
             gatsbyImageData(
               width: 350
@@ -105,5 +105,5 @@ export const query = graphql`
       timeToRead
     }
   }
-`
-export default BlogPost
+`;
+export default BlogPost;
