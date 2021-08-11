@@ -4,7 +4,7 @@ import ButtonTheme from "../ButtonTheme"
 import Logo from '../Logo';
 import * as S from "./styled"
 
-const Header = ({ }) => {
+const Header = () => {
   const [shrink, setShrink] = useState(false);
   const [open, setOpen] = useState(false)
 
