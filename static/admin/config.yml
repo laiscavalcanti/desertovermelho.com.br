@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: 
+  repo: https://github.com/laiscavalcanti/desertovermelho.com.br
   branch: main # Branch to update (optional; defaults to master)
   site_domain: 
 
