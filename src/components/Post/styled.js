@@ -18,7 +18,6 @@ export const PostWrapper = styled.section`
     margin: 4rem 2rem 0rem 0rem;
   `}
 `
-
 export const PostHeader = styled.header`
   display: flex;
   max-width: 40rem;
@@ -164,7 +163,7 @@ export const PostImage = styled.div`
 `
 export const MainContent = styled.article`
   max-width: 47.5rem;
-  padding: 1rem 0rem 2rem 7rem;
+  padding: 8rem 0rem 2rem 7rem;
   text-align: justify;
   ${media.lessThan("large")`
     padding: 0;
