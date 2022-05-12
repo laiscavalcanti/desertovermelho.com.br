@@ -8,9 +8,11 @@ module.exports = {
   },
   siteMetadata: {
     title: "Deserto Vermelho",
-    description: "Um blog sobre literatura, historiografia, política e cinema.",
+    description: "Um blog sobre literatura, historiografia, política, teoria e cinema.",
     author: "Deserto Vermelho",
-    siteUrl: "https://desertovermelho.netlify.app/"
+    siteUrl: "https://desertovermelho.com.br/",
+    keywords: `teoria, cinema, política, história, literatura`,
+    image: "src/images/iconedeserto.png"
   },
   plugins: [
     "gatsby-plugin-netlify-cms",

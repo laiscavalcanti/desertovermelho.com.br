@@ -1,16 +1,9 @@
-/**
- * SEO component that queries for data with
- *  Gatsby's useStaticQuery React hook
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
 import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, title, image }) {
+function SEO({ description, lang, meta, title}) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,29 +12,34 @@ function SEO({ description, lang, meta, title, image }) {
             title
             description
             author
-            siteUrl
-          }
+            keywords
+            image
+            }
         }
       }
     `
   )
 
-
+  const image = site.siteMetadata.image
+  const keywords = site.siteMetadata.keywords
   const metaDescription = description || site.siteMetadata.description
+  const defaultTitle = site.siteMetadata?.title
 
-  const url = site.siteMetadata.siteUrl
-  const ogImage = `${url}${image || "/assets/img/desertologo.svg"}`
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
+      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
         {
           name: `description`,
           content: metaDescription,
+        },
+        {
+          name: `keywords`,
+          content: keywords,
         },
         {
           property: `og:title`,
@@ -56,16 +54,16 @@ function SEO({ description, lang, meta, title, image }) {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: image,
+        },
+        {
           name: `twitter:card`,
-          content: `summary_large_image`,
+          content: `summary`,
         },
         {
-          name: `twitter:image:src`,
-          content: ogImage,
-        },
-        {
-          name: `twitter:creator`,
-          content: site.siteMetadata.author,
+          name: `twitter:image`,
+          content: image,
         },
         {
           name: `twitter:title`,
@@ -74,6 +72,10 @@ function SEO({ description, lang, meta, title, image }) {
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          name: `twitter:creator`,
+          content: site.siteMetadata?.author || ``,
         },
       ].concat(meta)}
     />
