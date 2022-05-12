@@ -102,7 +102,7 @@ export default () => (
                 image {
                   childImageSharp {
                     gatsbyImageData(
-                      width: 1400
+                      width: 1600
                       formats: [AUTO, WEBP, AVIF]
                       quality: 50
                       breakpoints: [750, 1080, 1366, 1920]
