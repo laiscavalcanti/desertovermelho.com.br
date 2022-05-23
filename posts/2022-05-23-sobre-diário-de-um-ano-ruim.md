@@ -3,7 +3,7 @@ title: Sobre Diário de Um ano ruim
 description: Comentário sobre romance de Coetzee
 date: 2022-05-23 06:23:25
 image: static/assets/img/9781921922367.jpg
-imagePost: static/assets/img/9781921922367.jpg
+imagePost: static/assets/img/oip.jpg
 author: wibs
 tags:
   - Literatura
