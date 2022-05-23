@@ -6,9 +6,7 @@ image: static/assets/img/oip.jpg
 imagePost: static/assets/img/9781921922367.jpg
 author: wibs
 tags:
-  - Romance
-  - ficçãocontemporânea
-  - comentário
+  - Literatura
 templateKey: slideshow
 ---
 *Diário de um ano ruim* é, assim como romances de Coetzee *A vida dos animais* e *Elizabeth Costello*, um romance que explora as tensões e possibilidades entre o relato ficcional e a escrita ensaística. Diferente dos dois outros livros, aqui não é a prosa das conferências e reflexões teóricas que é evocada, mas um estilo de texto entre o comentário político, a crônica de costumes e a coluna de opiniões. A primeira parte, chamada de opiniões fortes, parece nos apresentar um diário, marcando as datas entre os anos de 2005 e 2006, mas na verdade nos oferece comentários sobre a origem do estado, Hobbes, Maquiável, o olhar de um estrangeiro sobre a democracia e a vida na Austrália, entre outros temas. O espanto começa quando vemos que no rodapé das páginas uma história ficcional ocorre, o encontro entre um escritor octogenário que se identifica pelas iniciais JC e uma moça filipina pela qual ele se sente fisicamente atraído e que acaba sendo contratada por ele como datilógrafa/editora dos textos que estávamos lendo, as opiniões fortes que são atribuídas então a esse personagem. Qual não é nossa surpresa quando um novo texto se abre ao pé da página, onde a relação entre esses dois personagens é narrada, só que agora do ponto de vista da mulher, introduzindo também a relação que acontece com seu marido, um homem truculento que trabalha no mercado financeiro chamado Alex.
