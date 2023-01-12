@@ -4,9 +4,10 @@ description: "Um comentário sobre o romance Mongólia. "
 date: 2023-01-11 11:27:46
 image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294828413l/10197648.jpg
 imagePost: https://1.bp.blogspot.com/-epmvw2b3cNw/W1cwTFft-RI/AAAAAAAASEk/PTTkKZR6OPYg6XsLPolFpqXUUVQvYe_igCLcBGAs/s1600/Mong%25C3%25B3lia.jpg
+author: Deserto Vermelho
 tags:
   - Literatura
-templateKey: slideshow
+templateKey: slide show
 ---
 *Mongólia* faz parte de uma série de romances de Bernardo Carvalho que se propõe a elaborar um tipo problemático de “ficção etnográfica”. Se em *Nove Noites*, romance anterior à *Mongólia*, mergulhava-se nos confins do Brasil, nesse último se abraça uma viagem a um país cultural e geograficamente distante como forma de narrar a desaparição e a impossibilidade de descrever e compreender um país, ou de estranhar a própria identidade diante daquilo que é diferente.
 
