@@ -25,7 +25,7 @@ function SEO({ description, lang, meta, title, image}) {
 
 
   const url = site.siteMetadata.siteUrl
-  const ogImage = `${url}${image || "/assets/img/desertologo.svg"}`
+  const ogImage = `${url}${image || "/assets/img/desertologo.webp"}`
 
   return (
     <Helmet
