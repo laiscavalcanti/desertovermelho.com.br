@@ -1,0 +1,51 @@
+---
+title: Impressões sobre dois romances de Mirisola
+description: Comentários sobre "O azul do filho morto" e "Bangalô"
+date: 2023-05-02 08:28:53
+image: https://m.media-amazon.com/images/I/51HNhsr8FQL.jpg
+imagePost: https://m.media-amazon.com/images/I/31Vj66YcN-L._SY344_BO1,204,203,200_QL70_ML2_.jpg
+tags:
+  - ""
+templateKey: slideshow
+---
+<!--StartFragment-->
+
+## 1.
+
+## O azul do filho morto 
+
+O romance é constituído por uma narração vulgar, direta, que não poupa o choque e a violência, por vezes extrapolando para enunciados diretamente racistas. Como se emulasse a voz de um sujeito mesquinho,  nojento,  e essa ao mesmo tempo fosse a única voz capaz de narrar em um mundo brutal, cínico e desprezível. É uma voz que odeia e quer aniquilar tudo à sua volta, que despreza profundamente o mundo, mas não deixa de mostrar que é parte dele, que de certa forma o criou. Por isso, é um romance que se constitui a partir de uma voz narrativa contraditória.
+
+Essa voz em primeira pessoa alegoriza e debocha da brutalidade e da imbecilidade do capitalismo periférico e de sua barbárie. Pelo riso, o narrador apresenta esse mundo violento como se pudesse enfraquecê-lo por meio do ridículo, através de uma linguagem que é fruto desse mundo. Uma voz conservadora e moralmente abjeta, montando parágrafos a partir de frases atordoantes, curtas,  travadas. Os pontos interrompem e dão um ar truncado e abrupto ao texto. Como se o narrador tivesse trabalhado a própria paciência e desprezasse tanto o que vai narrar que decidiu dedicar um mínimo de esforço para contar a sua história.
+
+> *Eu conjugava resignação com holocaustos. Um bocado de paciência. Outro tanto de perplexidade e dissimulação (a canalhice latente, em si). Isso não mudou nada.*
+>
+> *Assim eu comia churros na praia do José Menino.*
+>
+> *Sempre na fila, com medo. Um cavalheirismo que mordia o próprio rabo. Sobretudo, medo. Eu pedia licença pra minha sombra. Temia a ira de Flávio Cavalcanti e Ofélia Anunciato cozinhava serpentes egípcias na televisão. Quando chegava minha vez, voltava pro final da fila. Os germes dos restaurantes “por quilo” levandos na alma. Uma coisa que me acalmava era lamber cortiça. A morte, os joanetes. Mário Andreazza, ministro dos Transportes. Umas punhetas pro pastor alemão (Mirisola, 2001, p. 79).*
+>
+>
+
+A contradição maior que movimenta o livro parece residir nessas frases, que aglomeradas vão constituindo uma sequência de choques aleatórios, empurrando a narrativa por meio da força e do grotesco e eliminando uma sensação de tempo que pareceria essencial ao tipo de história autobiográfica, e de formação, que se conta.  Aliás, não é bem uma história,  embora o que parece existir aqui seja uma autobiografia poética, uma história do narrador que vai da infância até o início da sua carreira de escritor. Não se trata de um livro de memórias, mas da criação de um mundo onde não há tempo cronológico, tudo é jogado ao leitor em um tempo da escrita onde as coisas se sucedem de acordo com um ritmo ditado pelo narrador, que invoca as ações e os personagens para construir um romance de formação abortado, que tende mais para o disforme e o abominável. Não há acúmulo de experiências, ou uma aventura de conquista, apenas o gesto libertário da escrita se afirmando contra um mundo patético e kirsch. A própria vida é mitificada em um movimento que é ao mesmo tempo de auto-depreciação e auto-destruição. No fim, o narrador despreza o mundo, o país, a família, mas despreza ainda mais a si mesmo, em um movimento de ódio catártico.
+
+Disse que não há enredos, mas seria melhor afirmar que há um enredo que nos parece oculto, como um texto subterrâneo que fornece a motivação para o narrador formar suas frases. Alguns eventos acabam se sobressaindo. A morte do avô, o aborto do filho, momentos que encontram aproximações entre a ternura e a  brutalidade. Mas tudo isso acontece em um  eterno presente degradante, como se o autor nunca tivesse saído da fase de delírio infantil, ou como se essa fase não tivesse desaparecido, mas se misturado à todas as experiências violentas e traumáticas da vida adulta, gerando um amálgama de inocência e repulsividade que não sabemos muito bem como nomear. 
+
+O que se sobressai são as imagens e produtos de um país brega e precário. Abundam os disk-sexo, os bolovo servidos em botecos, o metrô São Joaquim, a programação da TV. Esses serviços e mercadorias, sem falar nas prostitutas, formam uma imagem repugnante do Brasil e da vida, embalada por um ódio profundo às manicures, às duplas sertanejas e outras figuras que acabam representando o país dominado por um capitalismo embrutecedor. Com isso o narrador pratica também um exercício de confissão, eviscerando a própria família e a própria história, refletindo sobre o que é ser um escritor em um país que começava a progredir economicamente, sem que essa melhoria se reflita em um mundo melhor. A emergência de um escritor nesse meio degradante parece um milagre, mas essa degradação contamina as frases, o narrador não esconde as suas convicções, seu racismo nojento, sua mediocridade. Destaca-se a infância alucinada e demente urdida pela narrativa, um mundo de puro delírio, como se uma imaginação infantil fosse uma arma contra o mundo adulto e a escrita fosse uma ponte para uma infância desprovida de inocência, mas ao menos com alguma promessa de liberdade. Os animais, nesse mundo infantil, incrementam o delírio, funcionam como resposta ao caos dos adultos, povoam essa infância eterna. Se muita coisa aqui nos incomoda, é porque o mundo alucinado do narrador nos soa familiar. 
+
+
+
+## 2. 
+
+## Bangalô 
+
+Quando passamos para o romance seguinte de Mirisola, Bangalô, começamos a perceber como há uma série de artifícios e recursos constantes na obra do autor que longe de representarem limites ou repetições que apontariam para uma falta de criatividade, mostram a consistência e a afirmação de um projeto calcado em obsessões e de uma poética plenamente firmada. Um elemento também presente em Bangalô é a lamentação em torno da ausência da filha amada, mais uma vez fruto de um aborto (sempre provável, como tudo na prosa de Mirisola, fruto de um narrador completamente não-confiável). Junto com a solidão desse narrador, sempre lamentando os seus amores passados e efêmeros, a ausência da pessoa amada ou o fracasso da relação com suas amantes, esse motivo do filho ou filha morta serve como gatilho para a criação de frases e parágrafos cheios de lirismo.
+
+Enquanto em O azul do filho morto tínhamos um narrador que repassava a sua vida em uma autobiografia imaginada, temos em Bangalô o relato de um período em que o narrador, um alter-ego de Mirisola, escritor que acabara de publicar livros de relativo sucesso, passa um tempo morando de aluguel em um bangalô em Florianópolis, alugado de um artista plástico (e homossexual, como sublinha o narrador de forma preconceituosa, sempre quando pode), chamado Frank. 
+
+O narrador continua a enfileirar frases que descambam para tentativas de provocar choques e reações no leitor, o que pode ser um recurso hoje vulgar e tolo. O mesmo narrador com tiques preconceituosos de livros de contos anteriores, como O Herói Devolvido, continua reafirmando o que é uma marca registrada de Mirisola. Há racismo, homofobia e misoginia para todo lado, acoplada a momentos líricos e poeticamente elevados. Talvez o grande truque de alguns romances de Mirisola seja essa vulgaridade misturada à elevação poética, como se esses momentos em que o narrador parece mais aberto, frágil e emotivo só pudessem existir por trás de uma camada de conteúdo chulo e abjeto
+
+> *Não há, destarte… algo que amadureça. Talvez o que haja (enfim…) seja um acúmulo de equívocos e perdas que eu mesmo já conheci e não aprendi a descartar cujo nome dado pelos crédulos é perfeição. Entrementes, já que não sou crédulo nem macumbeiro mas um travado de merda, posso chamar a perfeição de fracasso. Ou um dia após o outro, bebedeiras infernais e a vontade de matar qualquer coisa de melancolia. Da noite mesmo, eu só posso falar do abandono. Ou: se algo “amadureceu”, antes teve que apodrecer dentro de mim (Mirisola, 2003, p.88).* 
+
+As referências a Bataille, assim como em O azul do filho morto, agora se somam às de Cioran, duas referências que não estão distantes do que Mirisola faz em Bangalô, já que há um quieto tipo de aforismo ou de prosa que parece retirada de um ensaio ou texto filosófico, levemente envergonhado, que pode ser desenterrado de alguns parágrafos. A solidão e a questão da morte da filha abrem espaço para quase digressões sobre o amor, a vida, a liberdade e outros temas “elevados” que recebem alguns lampejos rápidos. É uma prosa filosófica que nunca alça voo, como se o autor temesse o ridículo de entrar nessa seara, permanecendo assim em um território mais próximo ao da crônica urbana, mas ela está lá, de forma latente, como um exercício vulgar de filosofia. O método consiste na aglutinação de elementos distantes: a prosa quase poética, os pedaços de textos que poderiam funcionar de modo isolado como aforismo, as vulgaridades, comentários preconceituosos e piadas chulas, em uma prosa que chega a parecer mais complexa do que em O azul do Filho Morto, exacerbando o que já estava lá: frases com muitos travessões, vírgulas e pontos que parecem pedregulhos no texto; anacolutos que geram pausas inesperadas, recursos que no final permitem que surjam esses comentários breves em meio a uma anedota; ou o contrário, que uma confissão seja interrompida por uma frase chocante, sempre desafiando ou buscando surpreender o leitor, transitando do lirismo à sarjeta, e principalmente fazendo o texto funcionar como se cada parágrafo estivesse prestes a adquirir autonomia, como se as seções dos capítulos pudessem ser lidas como episódios isolados, unidos apenas pelo eixo central da solidão do narrador em um ambiente específico, a Lagoa da Conceição, em Florianópolis, articulado por uma paisagem que é retratada de forma obsessiva, com os barquinhos que se movem lentamente e fazem parte da terrível imagem final do livro. 
+
+<!--EndFragment-->
