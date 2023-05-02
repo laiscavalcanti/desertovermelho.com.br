@@ -1,6 +1,6 @@
 ---
 title: Impressões sobre dois romances de Mirisola
-description: comentários sobre "O azul do filho morto" e "Bangalô"
+description: Comentários sobre "O azul do filho morto" e "Bangalô"
 date: 2023-05-02 08:28:53
 image: https://m.media-amazon.com/images/I/51HNhsr8FQL.jpg
 imagePost: https://m.media-amazon.com/images/I/31Vj66YcN-L._SY344_BO1,204,203,200_QL70_ML2_.jpg
